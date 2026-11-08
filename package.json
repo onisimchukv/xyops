@@ -60,7 +60,7 @@
 		"pixl-cli": "^1.0.11",
 		"pixl-config": "^1.0.15",
 		"pixl-logger": "^2.0.0",
-		"pixl-mail": "^1.1.7",
+		"pixl-mail": "^1.1.12",
 		"pixl-perf": "^1.0.6",
 		"pixl-request": "^2.6.5",
 		"pixl-resize": "^1.0.0",
